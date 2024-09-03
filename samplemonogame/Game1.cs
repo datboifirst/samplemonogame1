@@ -20,7 +20,7 @@ namespace samplemonogame
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-
+            //
             base.Initialize();
         }
 
